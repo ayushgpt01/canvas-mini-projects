@@ -13,8 +13,6 @@ const mouse = {
 const gravity = 1;
 const friction = 0.56;
 
-console.log(utils.distance(25, 10, 15, 35));
-
 const colors = ["#F2385A", "#F5A503", "#E9F1DF", "#4AD9D9", "#36B1BF"];
 
 addEventListener("mousemove", (event) => {
